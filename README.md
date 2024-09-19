@@ -1,2 +1,2 @@
 # CSE360setup
-First guthub repository 
+First github repository 
